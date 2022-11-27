@@ -10,6 +10,7 @@
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Jacob Berger]
 - [Ema Omere]
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Amir](https://github.com/amir-repository)
